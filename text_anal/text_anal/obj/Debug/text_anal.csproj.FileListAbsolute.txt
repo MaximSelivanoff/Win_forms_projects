@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\text_anal\text_anal\bin\Debug\`.exe.config
+C:\Users\PC\source\repos\text_anal\text_anal\bin\Debug\`.exe
+C:\Users\PC\source\repos\text_anal\text_anal\bin\Debug\`.pdb
+C:\Users\PC\source\repos\text_anal\text_anal\obj\Debug\text_anal.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\text_anal\text_anal\obj\Debug\text_anal.Form1.resources
+C:\Users\PC\source\repos\text_anal\text_anal\obj\Debug\text_anal.Properties.Resources.resources
+C:\Users\PC\source\repos\text_anal\text_anal\obj\Debug\text_anal.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\text_anal\text_anal\obj\Debug\text_anal.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\text_anal\text_anal\obj\Debug\`.exe
+C:\Users\PC\source\repos\text_anal\text_anal\obj\Debug\`.pdb
