@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\Sea_battle\Sea_battle\bin\Debug\Sea_battle.exe.config
+C:\Users\PC\source\repos\Sea_battle\Sea_battle\bin\Debug\Sea_battle.exe
+C:\Users\PC\source\repos\Sea_battle\Sea_battle\bin\Debug\Sea_battle.pdb
+C:\Users\PC\source\repos\Sea_battle\Sea_battle\obj\Debug\Sea_battle.Form1.resources
+C:\Users\PC\source\repos\Sea_battle\Sea_battle\obj\Debug\Sea_battle.Properties.Resources.resources
+C:\Users\PC\source\repos\Sea_battle\Sea_battle\obj\Debug\Sea_battle.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Sea_battle\Sea_battle\obj\Debug\Sea_battle.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Sea_battle\Sea_battle\obj\Debug\Sea_battle.exe
+C:\Users\PC\source\repos\Sea_battle\Sea_battle\obj\Debug\Sea_battle.pdb
+C:\Users\PC\source\repos\Sea_battle\Sea_battle\obj\Debug\Sea_battle.csprojAssemblyReference.cache
